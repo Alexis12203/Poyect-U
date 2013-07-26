@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'mysql9.000webhost.com';
-$db['default']['username'] = 'a4738274_admin';
-$db['default']['password'] = 'classbook1234#';
-$db['default']['database'] = 'a4738274_class';
+$db['default']['hostname'] = 'mysql.tuars.com';
+$db['default']['username'] = 'u986221128_admin';
+$db['default']['password'] = 'class1234#';
+$db['default']['database'] = 'u986221128_class';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
